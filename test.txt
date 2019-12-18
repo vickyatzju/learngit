@@ -1,2 +1,3 @@
 origin:git is a distributed version control system
-
+1st change no add
+2nd change add .
